@@ -6,7 +6,7 @@ epsilon-Support Vector Regression
 A Thesis
 Presented to the Faculty of the
 College of Computer and Information Sciences
-Polytechnic University of the Philippines
+Polytechnic University of the Philippines, Manila
 
 In Partial Fulfillment
 of the Requirements for the Degree
